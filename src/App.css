@@ -2,7 +2,15 @@
   width: 100px;
   height: 100px;
   border-width: 5px;
+  border-color: black;
   padding: 20px;
   text-align: center;
   margin: 0px;
+  background-color: white;
+  font-size: 60px;
+}
+.row{
+  width: 100%;
+  display: flex;
+  align-self: right;
 }
